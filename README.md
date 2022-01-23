@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/cocoapods/v/UIKitChain.svg?style=flat)](https://cocoapods.org/pods/UIKitChain)
 [![License](https://img.shields.io/cocoapods/l/UIKitChain.svg?style=flat)](https://cocoapods.org/pods/UIKitChain)
 [![Platform](https://img.shields.io/cocoapods/p/UIKitChain.svg?style=flat)](https://cocoapods.org/pods/UIKitChain)
+![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-orange)
 
 Using the UIKitChain framework, You can create a UIKit component in one line of code.
 <br>
